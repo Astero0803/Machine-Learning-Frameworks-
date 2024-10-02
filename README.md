@@ -5,11 +5,12 @@ This repository contains Jupyter notebooks for learning and implementing machine
 ## Repository Structure
 - **pytorch/**: Contains the PyTorch notebook and related dependencies.
   - `20240930~1001_pytorch.ipynb`: Notebook for learning basic PyTorch operations and building neural networks.
-  - `requirements.txt`: List of dependencies required for running the PyTorch notebook.
+  - `2024.10.02_pytorch_cnn.ipynb `: Notebook for implementing Convolutional Neural Networks (CNN) in PyTorch, covering CNN layers, pooling, and model evaluation.
 
 - **tensorflow/**: Contains the TensorFlow notebook and related dependencies.
   - `2024_10_01_Tensorflow.ipynb`: Notebook for learning TensorFlow basics and building models using the Keras API.
-  - `requirements.txt`: List of dependencies required for running the TensorFlow notebook.
+  - `2024_10_02_Tenserflow.ipynb`: Notebook for building advanced neural network architectures in TensorFlow, including Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) models.
+  - `2024_10_02_Tenserflow_2.ipynb`: Notebook focused on transfer learning and fine-tuning pre-trained models in TensorFlow using tf.keras.applications.
 
 ## Key Learning Points
 1. **PyTorch Notebook**: Covers tensor manipulations, neural network construction, data loading, and model training using PyTorch.
