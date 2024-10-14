@@ -11,6 +11,8 @@ This repository contains Jupyter notebooks for learning and implementing machine
   - `2024_10_01_Tensorflow.ipynb`: Notebook for learning TensorFlow basics and building models using the Keras API.
   - `2024_10_02_Tenserflow.ipynb`: Notebook for building advanced neural network architectures in TensorFlow, including Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) models.
   - `2024_10_02_Tenserflow_2.ipynb`: Notebook focused on transfer learning and fine-tuning pre-trained models in TensorFlow using tf.keras.applications.
+  - `2024_10_14_Attention_Model.ipynb` : primarily focuses on text preprocessing and sentiment analysis using the IMDB dataset.
+  - `2024_10_14_Transformer.ipynb` :  implements and configures a Transformer model, including encoder-decoder layers, attention mechanisms, and mask handling for NLP tasks.
 
 ## Key Learning Points
 1. **PyTorch Notebook**: Covers tensor manipulations, neural network construction, data loading, and model training using PyTorch.
